@@ -1,4 +1,4 @@
-### Hi there 👋🧑🏻‍💻
+## Hi there 👋🧑🏻‍💻
 
 I'm working to be a Fullstack Developer and a Data Scientist. Having fun in the process!
 
