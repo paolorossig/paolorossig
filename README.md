@@ -3,6 +3,7 @@
 I'm working to be a Fullstack Developer and a Data Scientist. Having fun in the process!
 
 [![Linkedin Badge](https://img.shields.io/badge/-paolo.rossi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paolo-rossi-gonzales/)](https://www.linkedin.com/in/paolo-rossi-gonzales/)
+[![Telegram Badge](https://img.shields.io/badge/-@PaoloRossiG-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/PaoloRossiG "Contact on Telegram")
 [![Gmail Badge](https://img.shields.io/badge/-paolo.rossi@pucp.edu.pe-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paolo.rossi@pucp.edu.pe)](mailto:kanna6501@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-paolo.rossig-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/paolo.rossig/)](https://instagram.com/paolo.rossig)
 
