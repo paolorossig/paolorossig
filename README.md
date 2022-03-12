@@ -25,3 +25,20 @@ I'm working to be a Fullstack Developer and a Data Scientist. Having fun in the 
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+<table>
+    <thead>
+        <tr>
+            <th>
+                <a href="https://github.com/paolorossig/github-readme-stats">
+                    <img align="center" alt="Aron's github stats" src="https://github-readme-stats.vercel.app/api?username=paolorossig&amp;show_icons=true&amp;include_all_commits=true&amp;theme=dark&amp;hide_border=true" style="max-width: 100%;">
+                </a>
+            </th>
+            <th>
+                <a href="https://github.com/paolorossig/github-readme-stats">
+                    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paolorossig&amp;layout=compact&amp;theme=dark&amp;hide_border=true" style="max-width: 100%;">
+                </a>
+            </th>
+        </tr>
+    </thead>
+</table>
