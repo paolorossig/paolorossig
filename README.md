@@ -31,7 +31,7 @@ I'm working to be a Fullstack Developer and a Data Scientist. Having fun in the 
         <tr>
             <th>
                 <a href="https://github.com/anuraghazra/github-readme-stats">
-                    <img align="center" alt="Aron's github stats" src="https://github-readme-stats.vercel.app/api?username=paolorossig&amp;show_icons=true&amp;include_all_commits=true&amp;theme=dark&amp;hide_border=true" style="max-width: 100%;">
+                    <img align="center" src="https://github-readme-stats.vercel.app/api?username=paolorossig&amp;show_icons=true&amp;include_all_commits=true&amp;theme=dark&amp;hide_border=true" style="max-width: 100%;">
                 </a>
             </th>
             <th>
