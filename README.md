@@ -7,8 +7,8 @@ I'm working to be a Fullstack Developer and a Data Scientist. Having fun in the 
 [![Gmail Badge](https://img.shields.io/badge/-paolo.rossi@pucp.edu.pe-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paolo.rossi@pucp.edu.pe)](mailto:kanna6501@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-paolo.rossig-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/paolo.rossig/)](https://instagram.com/paolo.rossig)
 
-- 🏢  I’m currently working as a Business Intelligence Analyst @ Rappi
-- 📈  I'm the Co-founder & Fullstack developer @ Clivi
+- 🏢  I’m currently working as Fullstack @ Rappi
+- 📈  I'm open to new StartUp-related ideas
 - 🌱  I’m currently learning Cloud Native Foundations
 - 🔢  I'm part of the Advanced program in Data Science and Global Skills by MIT IDSS & Aporta
 - 🕺🏻  Fun fact: 2nd place with Peru's team in Cheonan World Dance Festival 2017
