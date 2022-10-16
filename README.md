@@ -7,7 +7,7 @@ I'm working to be a Fullstack Developer and a Data Scientist. Having fun in the 
 [![Gmail Badge](https://img.shields.io/badge/-paolo.rossi@pucp.edu.pe-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paolo.rossi@pucp.edu.pe)](mailto:kanna6501@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-paolo.rossig-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/paolo.rossig/)](https://instagram.com/paolo.rossig)
 
-- 🏢  I’m currently working as Fullstack @ Rappi
+- 🏢  I’m currently working as Fullstack Developer @ Rappi
 - 📈  I'm open to new StartUp-related ideas
 - 🌱  I’m currently learning Cloud Native Foundations
 - 🔢  I'm part of the Advanced program in Data Science and Global Skills by MIT IDSS & Aporta
@@ -16,7 +16,9 @@ I'm working to be a Fullstack Developer and a Data Scientist. Having fun in the 
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
 ![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-black?style=flat-square&logo=Tailwindcss)
